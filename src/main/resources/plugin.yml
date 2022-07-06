@@ -1,0 +1,8 @@
+name: "CopperPets"
+version: "1.1beta"
+main: "vb.$copperpets.PluginMain"
+api-version: 1.13
+authors: [portal]
+description: "best pets plugin"
+commands:
+permissions:
